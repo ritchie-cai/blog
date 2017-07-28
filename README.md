@@ -1,2 +1,2 @@
-# blog
-personal blog
+
+未免在各个网站来回奔波，便在github专门开了这个blog项目，用于存放现在及之后的技术文章和资料。
